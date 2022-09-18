@@ -1,0 +1,16 @@
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidLeIntFerqi.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidLeIntFerqi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidLeIntFerqi.AssemblyInfoInputs.cache
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidLeIntFerqi.AssemblyInfo.cs
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidLeIntFerqi.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\bin\Debug\net5.0\VoidLeIntFerqi.exe
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\bin\Debug\net5.0\VoidLeIntFerqi.deps.json
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\bin\Debug\net5.0\VoidLeIntFerqi.runtimeconfig.json
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\bin\Debug\net5.0\VoidLeIntFerqi.runtimeconfig.dev.json
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\bin\Debug\net5.0\VoidLeIntFerqi.dll
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\bin\Debug\net5.0\VoidLeIntFerqi.pdb
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidLeIntFerqi.dll
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\refint\VoidLeIntFerqi.dll
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidLeIntFerqi.pdb
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidLeIntFerqi.genruntimeconfig.cache
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\ref\VoidLeIntFerqi.dll

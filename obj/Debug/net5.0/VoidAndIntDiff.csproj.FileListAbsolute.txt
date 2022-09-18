@@ -1,0 +1,16 @@
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\bin\Debug\net5.0\VoidAndIntDiff.exe
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\bin\Debug\net5.0\VoidAndIntDiff.deps.json
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\bin\Debug\net5.0\VoidAndIntDiff.runtimeconfig.json
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\bin\Debug\net5.0\VoidAndIntDiff.runtimeconfig.dev.json
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\bin\Debug\net5.0\VoidAndIntDiff.dll
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\bin\Debug\net5.0\VoidAndIntDiff.pdb
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidAndIntDiff.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidAndIntDiff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidAndIntDiff.AssemblyInfoInputs.cache
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidAndIntDiff.AssemblyInfo.cs
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidAndIntDiff.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidAndIntDiff.dll
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\refint\VoidAndIntDiff.dll
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidAndIntDiff.pdb
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\VoidAndIntDiff.genruntimeconfig.cache
+C:\Users\Agamuradov\source\repos\VoidLeIntFerqi\VoidLeIntFerqi\obj\Debug\net5.0\ref\VoidAndIntDiff.dll
